@@ -1,0 +1,1347 @@
+{
+    "dashboards": [
+        {
+            "__Dashboard__": {
+                "css": null,
+                "dashboard_title": "Per\u00fa - Pr\u00e1cticas de manejo",
+                "description": null,
+                "json_metadata": "{\"filter_immune_slices\": [], \"timed_refresh_immune_slices\": [], \"filter_immune_slice_fields\": {}, \"expanded_slices\": {}, \"refresh_frequency\": 0, \"default_filters\": \"{}\", \"remote_id\": 1}",
+                "position_json": "{\"CHART--xGBoHmTQn\":{\"children\":[],\"id\":\"CHART--xGBoHmTQn\",\"meta\":{\"chartId\":25,\"height\":47,\"sliceName\":\"Plagas encontradas - manejo fitosanitario\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ABpFrZ4M9\"],\"type\":\"CHART\"},\"CHART-1bCMWplYpv\":{\"children\":[],\"id\":\"CHART-1bCMWplYpv\",\"meta\":{\"chartId\":23,\"height\":47,\"sliceName\":\"Producto usado en plagas\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ABpFrZ4M9\"],\"type\":\"CHART\"},\"CHART-1t4slOw8f2\":{\"children\":[],\"id\":\"CHART-1t4slOw8f2\",\"meta\":{\"chartId\":26,\"height\":48,\"sliceName\":\"Productos usados con maleza\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-AJ0AxSAYp\"],\"type\":\"CHART\"},\"CHART-7h5MBc0lep\":{\"children\":[],\"id\":\"CHART-7h5MBc0lep\",\"meta\":{\"chartId\":8,\"height\":26,\"sliceName\":\"\\u00c1rea total cosechada\",\"width\":3},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-PY9jSMzdF\",\"COLUMN-ThAOmva5P_\",\"ROW-QdgUwKTdgK\"],\"type\":\"CHART\"},\"CHART-OLLVBs1A5C\":{\"children\":[],\"id\":\"CHART-OLLVBs1A5C\",\"meta\":{\"chartId\":22,\"height\":49,\"sliceName\":\"Tipo de manejo fitosanitario\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-exWq76Pp9\"],\"type\":\"CHART\"},\"CHART-R2NZsf4MFL\":{\"children\":[],\"id\":\"CHART-R2NZsf4MFL\",\"meta\":{\"chartId\":16,\"height\":27,\"sliceName\":\"Enfermedades encontradas\",\"width\":3},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ymSPi2VmV\",\"COLUMN-GQ0V1ihfVC\"],\"type\":\"CHART\"},\"CHART-VYQyoLP1LF\":{\"children\":[],\"id\":\"CHART-VYQyoLP1LF\",\"meta\":{\"chartId\":14,\"height\":41,\"sliceName\":\"Fechas de siembra\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-CdqQSzx7Y\"],\"type\":\"CHART\"},\"CHART-XSUiCXlLZm\":{\"children\":[],\"id\":\"CHART-XSUiCXlLZm\",\"meta\":{\"chartId\":6,\"height\":50,\"sliceName\":\"Nivelaci\\u00f3n de suelo\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-po8XwhyEdE\",\"COLUMN-pE79ClWSzw\"],\"type\":\"CHART\"},\"CHART-XdAiKNlnoC\":{\"children\":[],\"id\":\"CHART-XdAiKNlnoC\",\"meta\":{\"chartId\":10,\"height\":41,\"sliceName\":\"Cultivar sembrado\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-CdqQSzx7Y\"],\"type\":\"CHART\"},\"CHART-YFm-1VE6c0\":{\"children\":[],\"id\":\"CHART-YFm-1VE6c0\",\"meta\":{\"chartId\":24,\"height\":48,\"sliceName\":\"Tipos de manejo de malezas\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-AJ0AxSAYp\"],\"type\":\"CHART\"},\"CHART-a0qP4ez-H2\":{\"children\":[],\"id\":\"CHART-a0qP4ez-H2\",\"meta\":{\"chartId\":20,\"height\":50,\"sliceName\":\"Rendimiento promedio por lote\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-Gkp0Hq3EfV\"],\"type\":\"CHART\"},\"CHART-b4G6WMt0KT\":{\"children\":[],\"id\":\"CHART-b4G6WMt0KT\",\"meta\":{\"chartId\":7,\"height\":26,\"sliceName\":\"\\u00c1rea total plantada\",\"width\":3},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-PY9jSMzdF\",\"COLUMN-ThAOmva5P_\",\"ROW-QdgUwKTdgK\"],\"type\":\"CHART\"},\"CHART-edT4tiAbXO\":{\"children\":[],\"id\":\"CHART-edT4tiAbXO\",\"meta\":{\"chartId\":13,\"height\":58,\"sliceName\":\"Monitoreos realizados\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ymSPi2VmV\"],\"type\":\"CHART\"},\"CHART-gvXic1Z_Wy\":{\"children\":[],\"id\":\"CHART-gvXic1Z_Wy\",\"meta\":{\"chartId\":21,\"height\":49,\"sliceName\":\"Cantidad de pr\\u00e1cticas\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-exWq76Pp9\"],\"type\":\"CHART\"},\"CHART-lhzA7xgiD4\":{\"children\":[],\"id\":\"CHART-lhzA7xgiD4\",\"meta\":{\"chartId\":15,\"height\":50,\"sliceName\":\"Rendimiento promedio seg\\u00fan fecha de cosecha\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-Gkp0Hq3EfV\"],\"type\":\"CHART\"},\"CHART-mOn6vcZOy9\":{\"children\":[],\"id\":\"CHART-mOn6vcZOy9\",\"meta\":{\"chartId\":17,\"height\":29,\"sliceName\":\"Plagas encontradas\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ymSPi2VmV\",\"COLUMN-GQ0V1ihfVC\",\"ROW-o7sF7Rqog3\"],\"type\":\"CHART\"},\"CHART-vBQgXV-cA4\":{\"children\":[],\"id\":\"CHART-vBQgXV-cA4\",\"meta\":{\"chartId\":12,\"height\":50,\"sliceName\":\"Zonas de colecta\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-PY9jSMzdF\"],\"type\":\"CHART\"},\"CHART-z3Rso096FH\":{\"children\":[],\"id\":\"CHART-z3Rso096FH\",\"meta\":{\"chartId\":11,\"height\":50,\"sliceName\":\"Tipos de rastrojo\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-po8XwhyEdE\",\"COLUMN-87s7YIU7eM\"],\"type\":\"CHART\"},\"CHART-zpzaGR7ydw\":{\"children\":[],\"id\":\"CHART-zpzaGR7ydw\",\"meta\":{\"chartId\":9,\"height\":22,\"sliceName\":\"Rendimiento promedio\",\"width\":2},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-PY9jSMzdF\",\"COLUMN-ThAOmva5P_\"],\"type\":\"CHART\"},\"COLUMN-87s7YIU7eM\":{\"children\":[\"CHART-z3Rso096FH\"],\"id\":\"COLUMN-87s7YIU7eM\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-po8XwhyEdE\"],\"type\":\"COLUMN\"},\"COLUMN-GQ0V1ihfVC\":{\"children\":[\"CHART-R2NZsf4MFL\",\"ROW-o7sF7Rqog3\"],\"id\":\"COLUMN-GQ0V1ihfVC\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ymSPi2VmV\"],\"type\":\"COLUMN\"},\"COLUMN-ThAOmva5P_\":{\"children\":[\"ROW-QdgUwKTdgK\",\"CHART-zpzaGR7ydw\"],\"id\":\"COLUMN-ThAOmva5P_\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-PY9jSMzdF\"],\"type\":\"COLUMN\"},\"COLUMN-mnBP6iF_aZ\":{\"children\":[\"HEADER-TD9OKDZ5_7\"],\"id\":\"COLUMN-mnBP6iF_aZ\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-rqppaIIUC\"],\"type\":\"COLUMN\"},\"COLUMN-pE79ClWSzw\":{\"children\":[\"CHART-XSUiCXlLZm\"],\"id\":\"COLUMN-pE79ClWSzw\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-po8XwhyEdE\"],\"type\":\"COLUMN\"},\"COLUMN-qCfL9olQV7\":{\"children\":[\"HEADER-waChPhXEbS\"],\"id\":\"COLUMN-qCfL9olQV7\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-rqppaIIUC\"],\"type\":\"COLUMN\"},\"DASHBOARD_VERSION_KEY\":\"v2\",\"GRID_ID\":{\"children\":[\"HEADER-hUNBn47mi_\",\"ROW-PY9jSMzdF\",\"HEADER-aAmJJwiv-h\",\"ROW-CdqQSzx7Y\",\"HEADER-bA3x9glCkq\",\"ROW-Gkp0Hq3EfV\",\"ROW-rqppaIIUC\",\"ROW-po8XwhyEdE\",\"HEADER-IJK8r8n9pM\",\"ROW-ymSPi2VmV\",\"HEADER-XFIhR1gDbL\",\"ROW-exWq76Pp9\",\"ROW-ABpFrZ4M9\",\"ROW-AJ0AxSAYp\"],\"id\":\"GRID_ID\",\"parents\":[\"ROOT_ID\"],\"type\":\"GRID\"},\"HEADER-IJK8r8n9pM\":{\"children\":[],\"id\":\"HEADER-IJK8r8n9pM\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"Monitoreo\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"HEADER\"},\"HEADER-TD9OKDZ5_7\":{\"children\":[],\"id\":\"HEADER-TD9OKDZ5_7\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"Manejo de rastrojos\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-rqppaIIUC\",\"COLUMN-mnBP6iF_aZ\"],\"type\":\"HEADER\"},\"HEADER-XFIhR1gDbL\":{\"children\":[],\"id\":\"HEADER-XFIhR1gDbL\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"Manejo fitosanitario\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"HEADER\"},\"HEADER-aAmJJwiv-h\":{\"children\":[],\"id\":\"HEADER-aAmJJwiv-h\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"Siembra\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"HEADER\"},\"HEADER-bA3x9glCkq\":{\"children\":[],\"id\":\"HEADER-bA3x9glCkq\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"Cosecha\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"HEADER\"},\"HEADER-hUNBn47mi_\":{\"children\":[],\"id\":\"HEADER-hUNBn47mi_\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"Evento productivo\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"HEADER\"},\"HEADER-waChPhXEbS\":{\"children\":[],\"id\":\"HEADER-waChPhXEbS\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\",\"headerSize\":\"MEDIUM_HEADER\",\"text\":\"Preparaci\\u00f3n de suelo\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-rqppaIIUC\",\"COLUMN-qCfL9olQV7\"],\"type\":\"HEADER\"},\"HEADER_ID\":{\"id\":\"HEADER_ID\",\"meta\":{\"text\":\"Pr\\u00e1cticas de manejo\"},\"type\":\"HEADER\"},\"ROOT_ID\":{\"children\":[\"GRID_ID\"],\"id\":\"ROOT_ID\",\"type\":\"ROOT\"},\"ROW-ABpFrZ4M9\":{\"children\":[\"CHART--xGBoHmTQn\",\"CHART-1bCMWplYpv\"],\"id\":\"ROW-ABpFrZ4M9\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-AJ0AxSAYp\":{\"children\":[\"CHART-YFm-1VE6c0\",\"CHART-1t4slOw8f2\"],\"id\":\"ROW-AJ0AxSAYp\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-CdqQSzx7Y\":{\"children\":[\"CHART-XdAiKNlnoC\",\"CHART-VYQyoLP1LF\"],\"id\":\"ROW-CdqQSzx7Y\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-Gkp0Hq3EfV\":{\"children\":[\"CHART-a0qP4ez-H2\",\"CHART-lhzA7xgiD4\"],\"id\":\"ROW-Gkp0Hq3EfV\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-PY9jSMzdF\":{\"children\":[\"CHART-vBQgXV-cA4\",\"COLUMN-ThAOmva5P_\"],\"id\":\"ROW-PY9jSMzdF\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-QdgUwKTdgK\":{\"children\":[\"CHART-b4G6WMt0KT\",\"CHART-7h5MBc0lep\"],\"id\":\"ROW-QdgUwKTdgK\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-PY9jSMzdF\",\"COLUMN-ThAOmva5P_\"],\"type\":\"ROW\"},\"ROW-exWq76Pp9\":{\"children\":[\"CHART-gvXic1Z_Wy\",\"CHART-OLLVBs1A5C\"],\"id\":\"ROW-exWq76Pp9\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-o7sF7Rqog3\":{\"children\":[\"CHART-mOn6vcZOy9\"],\"id\":\"ROW-o7sF7Rqog3\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-ymSPi2VmV\",\"COLUMN-GQ0V1ihfVC\"],\"type\":\"ROW\"},\"ROW-po8XwhyEdE\":{\"children\":[\"COLUMN-87s7YIU7eM\",\"COLUMN-pE79ClWSzw\"],\"id\":\"ROW-po8XwhyEdE\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-rqppaIIUC\":{\"children\":[\"COLUMN-mnBP6iF_aZ\",\"COLUMN-qCfL9olQV7\"],\"id\":\"ROW-rqppaIIUC\",\"meta\":{\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"},\"ROW-ymSPi2VmV\":{\"children\":[\"CHART-edT4tiAbXO\",\"COLUMN-GQ0V1ihfVC\"],\"id\":\"ROW-ymSPi2VmV\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"}}",
+                "slices": [
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 6,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"ap_lp_type\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_u07b3ch3sl_2acpfuf7e26\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"bar_stacked\": false, \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"columns\": [], \"contribution\": false, \"datasource\": \"7__table\", \"granularity_sqla\": \"fixed_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"metrics\": [{\"aggregate\": \"COUNT_DISTINCT\", \"column\": {\"column_name\": \"event_id\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 99, \"is_dttm\": false, \"optionName\": \"_col_event_id\", \"python_date_format\": null, \"type\": \"BIGINT(20)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad\", \"optionName\": \"metric_z2pumte6hi_i5zlj6qfl0d\", \"sqlExpression\": null}], \"order_bars\": false, \"reduce_x_ticks\": false, \"row_limit\": null, \"show_bar_value\": false, \"show_controls\": false, \"show_legend\": true, \"slice_id\": 6, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"dist_bar\", \"x_axis_label\": \"Pr\\u00e1cticas\", \"x_ticks_layout\": \"auto\", \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"remote_id\": 6, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Nivelaci\u00f3n de suelo",
+                            "viz_type": "dist_bar"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 7,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_lqh5h7lvat_gh2bhllb6f\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"pc_planted_area\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_bw87p6hzngu_ewsy4cron3q\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"header_font_size\": 0.4, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"fixed_value_n\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 101, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_n\", \"python_date_format\": null, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": false, \"hasCustomLabel\": false, \"label\": \"SUM(fixed_value_n)\", \"optionName\": \"metric_1k07m0cfi77_44n7ztt8y6n\", \"sqlExpression\": null}, \"slice_id\": 7, \"subheader\": \"(ha)\", \"subheader_font_size\": 0.2, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 7, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "\u00c1rea total plantada",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 8,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_ijhuezhk6yq_nlvn2j5bn2l\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"h_area\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_bj0kqdjfkvk_fl9hc0tr4mk\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"header_font_size\": 0.4, \"metric\": {\"aggregate\": \"SUM\", \"column\": {\"column_name\": \"fixed_value_n\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 101, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_n\", \"python_date_format\": null, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": false, \"hasCustomLabel\": false, \"label\": \"SUM(fixed_value_n)\", \"optionName\": \"metric_uwtc9hwciti_r0vu0gsn6kd\", \"sqlExpression\": null}, \"slice_id\": 8, \"subheader\": \"(ha)\", \"subheader_font_size\": 0.2, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 8, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "\u00c1rea total cosechada",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 9,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_wx1wrp43ok_xqs3ut5nmv\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"h_total_yield\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_p8rfi7bzpph_uacq3xnm9h\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"header_font_size\": 0.4, \"metric\": {\"aggregate\": \"AVG\", \"column\": {\"column_name\": \"fixed_value_n\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 101, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_n\", \"python_date_format\": null, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"AVG(fixed_value_n)\", \"optionName\": \"metric_q4bfveyeup_w3ro43bfhih\", \"sqlExpression\": null}, \"slice_id\": 9, \"subheader\": \"(kg / ha)\", \"subheader_font_size\": 0.2, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"big_number_total\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 9, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Rendimiento promedio",
+                            "viz_type": "big_number_total"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 10,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_2dhf0j90ubk_crdfcsgntmk\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"pe_cultivar\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_c3p037jrqve_56tlbblfsx7\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"color_scheme\": \"bnbColors\", \"datasource\": \"7__table\", \"donut\": false, \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"labels_outside\": true, \"metric\": {\"aggregate\": \"COUNT\", \"column\": {\"column_name\": \"fixed_value_o\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 109, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_o\", \"python_date_format\": null, \"type\": \"VARCHAR(250)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"COUNT(fixed_value_o)\", \"optionName\": \"metric_ghaluouizwa_5mw5hzlpl0w\", \"sqlExpression\": null}, \"number_format\": \"SMART_NUMBER\", \"pie_label_type\": \"key\", \"row_limit\": 25, \"show_labels\": true, \"show_legend\": true, \"slice_id\": 10, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"pie\", \"remote_id\": 10, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Cultivar sembrado",
+                            "viz_type": "pie"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 11,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_wci62lu5ttm_augl9o35nc6\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_cr_type\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_nodtyg7122s_y6e0417rhwf\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"bar_stacked\": false, \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"columns\": [], \"contribution\": false, \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"metrics\": [{\"aggregate\": \"COUNT_DISTINCT\", \"column\": {\"column_name\": \"event_id\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 99, \"is_dttm\": false, \"optionName\": \"_col_event_id\", \"python_date_format\": null, \"type\": \"BIGINT(20)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad\", \"optionName\": \"metric_qnwhhqd6b28_6yzelw22fzg\", \"sqlExpression\": null}], \"order_bars\": false, \"reduce_x_ticks\": false, \"row_limit\": null, \"show_bar_value\": false, \"show_controls\": false, \"show_legend\": true, \"slice_id\": 11, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"dist_bar\", \"x_axis_label\": \"\", \"x_ticks_layout\": \"auto\", \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"remote_id\": 11, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Tipos de rastrojo",
+                            "viz_type": "dist_bar"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_production_events",
+                            "datasource_type": "table",
+                            "id": 12,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_23p6gquegvp_6jdnrzku5qi\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}], \"autozoom\": true, \"color_picker\": {\"a\": 1, \"b\": 135, \"g\": 122, \"r\": 0}, \"color_scheme\": \"bnbColors\", \"datasource\": \"3__table\", \"dimension\": null, \"filter_nulls\": true, \"granularity\": null, \"granularity_sqla\": null, \"js_columns\": [], \"label_colors\": {}, \"legend_format\": null, \"legend_position\": \"tr\", \"mapbox_style\": \"mapbox://styles/mapbox/light-v9\", \"max_radius\": 250, \"min_radius\": 2, \"multiplier\": 1, \"point_radius_fixed\": {\"type\": \"fix\", \"value\": 1000}, \"point_unit\": \"square_m\", \"row_limit\": null, \"slice_id\": 12, \"spatial\": {\"latCol\": \"plot_latitude\", \"lonCol\": \"plot_longitud\", \"type\": \"latlong\"}, \"time_grain_sqla\": null, \"time_range\": \"No filter\", \"url_params\": {}, \"viewport\": {\"altitude\": 1.5, \"bearing\": 0, \"height\": 593, \"latitude\": -6.262846744598574, \"longitude\": -78.51977243417956, \"maxPitch\": 60, \"maxZoom\": 24, \"minPitch\": 0, \"minZoom\": 0, \"pitch\": 0, \"transitionDuration\": 0, \"transitionInterpolator\": {\"around\": [428.01251220703125, 234.39999389648438], \"propNames\": [\"longitude\", \"latitude\", \"zoom\", \"bearing\", \"pitch\"]}, \"transitionInterruption\": 1, \"width\": 973, \"zoom\": 5.7957839573918415}, \"viz_type\": \"deck_scatter\", \"remote_id\": 12, \"datasource_name\": \"vw_production_events\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Zonas de colecta",
+                            "viz_type": "deck_scatter"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 13,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_kevmqllgp8h_rrau4l84m6\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_m_type\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_9c6zfwd0svo_3a9kdv448ut\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"bar_stacked\": false, \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"columns\": [], \"contribution\": false, \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"metrics\": [{\"aggregate\": \"COUNT\", \"column\": {\"column_name\": \"fixed_value_o\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 109, \"is_dttm\": false, \"python_date_format\": null, \"type\": \"VARCHAR(250)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad\", \"optionName\": \"metric_e9pj1qjzrol_b3jq3s9g5jn\", \"sqlExpression\": null}], \"order_bars\": false, \"reduce_x_ticks\": false, \"row_limit\": null, \"show_bar_value\": true, \"show_controls\": false, \"show_legend\": true, \"slice_id\": 13, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"dist_bar\", \"x_axis_label\": \"Tipos de monitoreo\", \"x_ticks_layout\": \"auto\", \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"remote_id\": 13, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Monitoreos realizados",
+                            "viz_type": "dist_bar"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 14,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_1va1ncb2ttb_ujxqri9ks5e\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"pc_sowing_date\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_vrtjwwbjd1_8ylvnhf2ktw\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"cell_padding\": 2, \"cell_radius\": 0, \"cell_size\": 12, \"datasource\": \"7__table\", \"domain_granularity\": \"month\", \"granularity_sqla\": \"raw_value_d\", \"linear_color_scheme\": \"blue_white_yellow\", \"metrics\": [{\"aggregate\": \"COUNT_DISTINCT\", \"column\": {\"column_name\": \"event_id\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 99, \"is_dttm\": false, \"python_date_format\": null, \"type\": \"BIGINT(20)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad de siembras (2018-2019)\", \"optionName\": \"metric_lsjw9ixovb_ozgjyduakzn\", \"sqlExpression\": null}], \"show_legend\": true, \"show_metric_name\": true, \"show_values\": false, \"slice_id\": 14, \"steps\": 10, \"subdomain_granularity\": \"day\", \"time_grain_sqla\": \"P1D\", \"time_range\": \"2018-07-01T00:00:00 : 2019-03-31T00:00:00\", \"url_params\": {}, \"viz_type\": \"cal_heatmap\", \"x_axis_time_format\": \"%Y-%m-%d\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 14, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Fechas de siembra",
+                            "viz_type": "cal_heatmap"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "aeps_2_0.apache superset-compare_values_dates-Z2CTmZ9Bl",
+                            "datasource_type": "table",
+                            "id": 15,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"h_total_yield\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_6a368k23a5_ctv540kntrw\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"q1_name\"}, {\"clause\": \"WHERE\", \"comparator\": \"h_date\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_buq8sfq3du6_k7jmz2zqg\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"q2_name\"}], \"cell_padding\": 2, \"cell_radius\": 0, \"cell_size\": 12, \"datasource\": \"10__table\", \"domain_granularity\": \"month\", \"granularity_sqla\": \"date\", \"linear_color_scheme\": \"blue_white_yellow\", \"metrics\": [{\"aggregate\": \"AVG\", \"column\": {\"column_name\": \"value\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 126, \"is_dttm\": false, \"optionName\": \"_col_value\", \"python_date_format\": null, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Rendimiento promedio (kg/ha) (2018-2019)\", \"optionName\": \"metric_dsrn2j66tp9_ikat5hvvji\", \"sqlExpression\": null}], \"show_legend\": true, \"show_metric_name\": true, \"show_values\": false, \"slice_id\": 15, \"steps\": 10, \"subdomain_granularity\": \"day\", \"time_grain_sqla\": \"P1D\", \"time_range\": \"2018-11-01T00:00:00 : 2019-07-31T00:00:00\", \"viz_type\": \"cal_heatmap\", \"x_axis_time_format\": \"%Y-%m-%d\", \"y_axis_format\": \"SMART_NUMBER\", \"remote_id\": 15, \"datasource_name\": \"apache superset-compare_values_dates-Z2CTmZ9Bl\", \"schema\": \"aeps_2_0\", \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Rendimiento promedio seg\u00fan fecha de cosecha",
+                            "viz_type": "cal_heatmap"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 16,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_k05inotdrzm_hr2akpwk2d\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_m_diseases\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_5nnw9q23waq_d2mwjty93ih\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"color_scheme\": \"bnbColors\", \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"label_colors\": {}, \"metric\": \"count\", \"rotation\": \"flat\", \"row_limit\": null, \"series\": \"fixed_value_o\", \"size_from\": 10, \"size_to\": 70, \"slice_id\": 16, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"word_cloud\", \"remote_id\": 16, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Enfermedades encontradas",
+                            "viz_type": "word_cloud"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 17,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_f5xuul5ilk9_wnu2sbjkwa9\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_m_pest_found\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_4ituqn5wi74_2ghlbdiinzr\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"color_scheme\": \"bnbColors\", \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"label_colors\": {}, \"metric\": \"count\", \"rotation\": \"square\", \"row_limit\": null, \"series\": \"fixed_value_o\", \"size_from\": 10, \"size_to\": 70, \"slice_id\": 17, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"word_cloud\", \"remote_id\": 17, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Plagas encontradas",
+                            "viz_type": "word_cloud"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 20,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_gya849sa6cd_9zob7t82a7t\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"h_total_yield\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_pfmtbeg659j_grvstev68uo\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"autozoom\": true, \"color_picker\": {\"a\": 1, \"b\": 135, \"g\": 122, \"r\": 0}, \"color_scheme\": \"d3Category20c\", \"datasource\": \"7__table\", \"dimension\": \"fixed_value_n\", \"filter_nulls\": true, \"granularity\": null, \"granularity_sqla\": \"raw_value_d\", \"js_columns\": [], \"label_colors\": {}, \"legend_format\": \"SMART_NUMBER\", \"legend_position\": \"tr\", \"mapbox_style\": \"mapbox://styles/mapbox/light-v9\", \"max_radius\": 250, \"min_radius\": 4, \"multiplier\": 5, \"point_radius_fixed\": {\"type\": \"metric\", \"value\": {\"aggregate\": \"AVG\", \"column\": {\"column_name\": \"fixed_value_n\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 101, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_n\", \"python_date_format\": null, \"type\": \"DOUBLE\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": false, \"label\": \"AVG(fixed_value_n)\", \"optionName\": \"metric_4nxmg6isl65_eiv3eyp1ao\", \"sqlExpression\": null}}, \"point_unit\": \"square_m\", \"row_limit\": null, \"slice_id\": 20, \"spatial\": {\"latCol\": \"plot_latitude\", \"lonCol\": \"plot_longitud\", \"type\": \"latlong\"}, \"time_grain_sqla\": null, \"time_range\": \"No filter\", \"url_params\": {}, \"viewport\": {\"altitude\": 1.5, \"bearing\": 0, \"height\": 593, \"latitude\": -5.561201624053238, \"longitude\": -78.498776738809, \"maxPitch\": 60, \"maxZoom\": 24, \"minPitch\": 0, \"minZoom\": 0, \"pitch\": 0, \"transitionDuration\": 0, \"transitionInterpolator\": {\"around\": [241.01251220703125, 457.3999938964844], \"propNames\": [\"longitude\", \"latitude\", \"zoom\", \"bearing\", \"pitch\"]}, \"transitionInterruption\": 1, \"width\": 973, \"zoom\": 9.61504293951575}, \"viz_type\": \"deck_scatter\", \"remote_id\": 20, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Rendimiento promedio por lote",
+                            "viz_type": "deck_scatter"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 21,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_javwvydziec_dq6gg4xpl36\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_phm_type\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_edo8t50gt54_0vr50lr3uemo\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"bar_stacked\": false, \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"columns\": [], \"contribution\": false, \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"metrics\": [\"count\"], \"order_bars\": false, \"reduce_x_ticks\": false, \"row_limit\": null, \"show_bar_value\": false, \"show_controls\": false, \"show_legend\": true, \"slice_id\": 21, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"dist_bar\", \"x_axis_label\": \"\", \"x_ticks_layout\": \"auto\", \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"remote_id\": 21, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Cantidad de pr\u00e1cticas",
+                            "viz_type": "dist_bar"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 22,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_y1dss4uf8j_bec6qujdx2i\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_phm_was\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_68j2wwfeiip_030cp4cg5iu5\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"color_scheme\": \"bnbColors\", \"datasource\": \"7__table\", \"donut\": false, \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"labels_outside\": true, \"metric\": {\"aggregate\": \"COUNT\", \"column\": {\"column_name\": \"fixed_value_o\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 109, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_o\", \"python_date_format\": null, \"type\": \"VARCHAR(250)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": false, \"hasCustomLabel\": false, \"label\": \"COUNT(fixed_value_o)\", \"optionName\": \"metric_tf2nc6ro4j_omc18coslcb\", \"sqlExpression\": null}, \"number_format\": \"SMART_NUMBER\", \"pie_label_type\": \"key\", \"row_limit\": null, \"show_labels\": true, \"show_legend\": true, \"slice_id\": 22, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"pie\", \"remote_id\": 22, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Tipo de manejo fitosanitario",
+                            "viz_type": "pie"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 23,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_gy6c5pf1g2l_d2l0yoc0t8t\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_phm_p_product_used\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_fdbd95zc5hv_ef2vf6nk9f7\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"color_scheme\": \"bnbColors\", \"datasource\": \"7__table\", \"donut\": false, \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"labels_outside\": true, \"metric\": \"count\", \"number_format\": \"SMART_NUMBER\", \"pie_label_type\": \"key\", \"row_limit\": 10000, \"show_labels\": true, \"show_legend\": true, \"slice_id\": 23, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"pie\", \"remote_id\": 23, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Producto usado en plagas",
+                            "viz_type": "pie"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 24,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_586r5jeewrb_jd0oy4igahd\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_phm_w_type\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_mm1pxckv9b_vkrdzrainte\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"bar_stacked\": false, \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"columns\": [], \"contribution\": false, \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"metrics\": [{\"aggregate\": \"COUNT\", \"column\": {\"column_name\": \"fixed_value_o\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 109, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_o\", \"python_date_format\": null, \"type\": \"VARCHAR(250)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad\", \"optionName\": \"metric_oojbsf7b6ue_tzhpu59our\", \"sqlExpression\": null}], \"order_bars\": false, \"reduce_x_ticks\": false, \"row_limit\": null, \"show_bar_value\": false, \"show_controls\": false, \"show_legend\": true, \"slice_id\": 24, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"dist_bar\", \"x_axis_label\": \"\", \"x_ticks_layout\": \"auto\", \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"remote_id\": 24, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Tipos de manejo de malezas",
+                            "viz_type": "dist_bar"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 25,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_kyzx5bhpk18_b08yz8n8ot5\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_phm_p_found\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_4xv9zmv80nj_rnm8usyidl\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"bar_stacked\": false, \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"columns\": [], \"contribution\": false, \"datasource\": \"7__table\", \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"metrics\": [{\"aggregate\": \"COUNT\", \"column\": {\"column_name\": \"fixed_value_o\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 109, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_o\", \"python_date_format\": null, \"type\": \"VARCHAR(250)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad\", \"optionName\": \"metric_zxocnnr7n1n_kjuueh5apv\", \"sqlExpression\": null}], \"order_bars\": false, \"reduce_x_ticks\": false, \"row_limit\": null, \"show_bar_value\": false, \"show_controls\": false, \"show_legend\": true, \"slice_id\": 25, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"dist_bar\", \"x_axis_label\": \"\", \"x_ticks_layout\": \"auto\", \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"remote_id\": 25, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Plagas encontradas - manejo fitosanitario",
+                            "viz_type": "dist_bar"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_answers_ta",
+                            "datasource_type": "table",
+                            "id": 26,
+                            "params": "{\"adhoc_filters\": [{\"clause\": \"WHERE\", \"comparator\": \"\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_jhgkoesmbmr_7bg2qr3e60e\", \"fromFormData\": true, \"operator\": \"IS NOT NULL\", \"sqlExpression\": null, \"subject\": \"event_id\"}, {\"clause\": \"WHERE\", \"comparator\": \"ap_phm_w_herbicide_used\", \"expressionType\": \"SIMPLE\", \"filterOptionName\": \"filter_p02924djqg_ag6kn01q164\", \"fromFormData\": true, \"operator\": \"==\", \"sqlExpression\": null, \"subject\": \"question\"}], \"color_scheme\": \"bnbColors\", \"datasource\": \"7__table\", \"donut\": false, \"granularity_sqla\": \"raw_value_d\", \"groupby\": [\"fixed_value_o\"], \"label_colors\": {}, \"labels_outside\": true, \"metric\": {\"aggregate\": \"COUNT\", \"column\": {\"column_name\": \"fixed_value_o\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 109, \"is_dttm\": false, \"optionName\": \"_col_fixed_value_o\", \"python_date_format\": null, \"type\": \"VARCHAR(250)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad\", \"optionName\": \"metric_ul87ktoliy_z565emnocyn\", \"sqlExpression\": null}, \"number_format\": \"SMART_NUMBER\", \"pie_label_type\": \"key\", \"row_limit\": 25, \"show_labels\": true, \"show_legend\": true, \"slice_id\": 26, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"pie\", \"remote_id\": 26, \"datasource_name\": \"vw_answers_ta\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Productos usados con maleza",
+                            "viz_type": "pie"
+                        }
+                    }
+                ],
+                "slug": "practicas_manejo"
+            }
+        },
+        {
+            "__Dashboard__": {
+                "css": null,
+                "dashboard_title": "Gesti\u00f3n t\u00e9cnicos",
+                "description": null,
+                "json_metadata": "{\"filter_immune_slices\": [], \"timed_refresh_immune_slices\": [], \"filter_immune_slice_fields\": {}, \"expanded_slices\": {}, \"refresh_frequency\": 0, \"default_filters\": \"{}\", \"remote_id\": 2}",
+                "position_json": "{\"CHART-TvFYarPmDb\":{\"children\":[],\"id\":\"CHART-TvFYarPmDb\",\"meta\":{\"chartId\":19,\"height\":50,\"sliceName\":\"Encuestas realizadas\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-wquTqeJib\"],\"type\":\"CHART\"},\"CHART-cr6mQZbc6e\":{\"children\":[],\"id\":\"CHART-cr6mQZbc6e\",\"meta\":{\"chartId\":18,\"height\":50,\"sliceName\":\"Zonas de colecta\",\"width\":6},\"parents\":[\"ROOT_ID\",\"GRID_ID\",\"ROW-wquTqeJib\"],\"type\":\"CHART\"},\"DASHBOARD_VERSION_KEY\":\"v2\",\"GRID_ID\":{\"children\":[\"ROW-wquTqeJib\"],\"id\":\"GRID_ID\",\"parents\":[\"ROOT_ID\"],\"type\":\"GRID\"},\"HEADER_ID\":{\"id\":\"HEADER_ID\",\"meta\":{\"text\":\"Gesti\\u00f3n t\\u00e9cnicos\"},\"type\":\"HEADER\"},\"ROOT_ID\":{\"children\":[\"GRID_ID\"],\"id\":\"ROOT_ID\",\"type\":\"ROOT\"},\"ROW-wquTqeJib\":{\"children\":[\"CHART-cr6mQZbc6e\",\"CHART-TvFYarPmDb\"],\"id\":\"ROW-wquTqeJib\",\"meta\":{\"0\":\"ROOT_ID\",\"background\":\"BACKGROUND_TRANSPARENT\"},\"parents\":[\"ROOT_ID\",\"GRID_ID\"],\"type\":\"ROW\"}}",
+                "slices": [
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_production_events",
+                            "datasource_type": "table",
+                            "id": 18,
+                            "params": "{\"adhoc_filters\": [], \"autozoom\": true, \"color_picker\": {\"a\": 1, \"b\": 135, \"g\": 122, \"r\": 0}, \"color_scheme\": \"bnbColors\", \"datasource\": \"3__table\", \"dimension\": \"technical_name\", \"filter_nulls\": true, \"granularity\": null, \"granularity_sqla\": null, \"js_columns\": [], \"label_colors\": {}, \"legend_format\": null, \"legend_position\": \"tr\", \"mapbox_style\": \"mapbox://styles/mapbox/light-v9\", \"max_radius\": 250, \"min_radius\": 2, \"multiplier\": 1, \"point_radius_fixed\": {\"type\": \"fix\", \"value\": 1000}, \"point_unit\": \"square_m\", \"row_limit\": null, \"slice_id\": 18, \"spatial\": {\"latCol\": \"plot_latitude\", \"lonCol\": \"plot_longitud\", \"type\": \"latlong\"}, \"time_grain_sqla\": null, \"time_range\": \"No filter\", \"url_params\": {}, \"viewport\": {\"altitude\": 1.5, \"bearing\": 0, \"height\": 593, \"latitude\": 5.383019583324593, \"longitude\": -59.04674779310874, \"maxPitch\": 60, \"maxZoom\": 24, \"minPitch\": 0, \"minZoom\": 0, \"pitch\": 0, \"transitionDuration\": 0, \"transitionInterpolator\": {\"propNames\": [\"longitude\", \"latitude\", \"zoom\", \"bearing\", \"pitch\"]}, \"transitionInterruption\": 1, \"width\": 973, \"zoom\": 3.2496113026425686}, \"viz_type\": \"deck_scatter\", \"remote_id\": 18, \"datasource_name\": \"vw_production_events\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Zonas de colecta",
+                            "viz_type": "deck_scatter"
+                        }
+                    },
+                    {
+                        "__Slice__": {
+                            "cache_timeout": null,
+                            "datasource_name": "vw_production_events",
+                            "datasource_type": "table",
+                            "id": 19,
+                            "params": "{\"adhoc_filters\": [], \"bar_stacked\": false, \"bottom_margin\": \"auto\", \"color_scheme\": \"bnbColors\", \"columns\": [], \"contribution\": false, \"datasource\": \"3__table\", \"granularity_sqla\": null, \"groupby\": [\"technical_name\"], \"label_colors\": {}, \"metrics\": [{\"aggregate\": \"COUNT_DISTINCT\", \"column\": {\"column_name\": \"event_id\", \"description\": null, \"expression\": null, \"filterable\": true, \"groupby\": true, \"id\": 24, \"is_dttm\": false, \"optionName\": \"_col_event_id\", \"python_date_format\": null, \"type\": \"BIGINT(20)\", \"verbose_name\": null}, \"expressionType\": \"SIMPLE\", \"fromFormData\": true, \"hasCustomLabel\": true, \"label\": \"Cantidad de encuestas\", \"optionName\": \"metric_tu22ttysmmd_aehhb6wke7s\", \"sqlExpression\": null}], \"order_bars\": false, \"reduce_x_ticks\": false, \"row_limit\": null, \"show_bar_value\": false, \"show_controls\": false, \"show_legend\": true, \"slice_id\": 19, \"time_grain_sqla\": \"P1D\", \"time_range\": \"No filter\", \"url_params\": {}, \"viz_type\": \"dist_bar\", \"x_axis_label\": \"\", \"x_ticks_layout\": \"auto\", \"y_axis_format\": \"SMART_NUMBER\", \"y_axis_label\": \"\", \"remote_id\": 19, \"datasource_name\": \"vw_production_events\", \"schema\": null, \"database_name\": \"aeps_2_0\"}",
+                            "slice_name": "Encuestas realizadas",
+                            "viz_type": "dist_bar"
+                        }
+                    }
+                ],
+                "slug": null
+            }
+        }
+    ],
+    "datasources": [
+        {
+            "__SqlaTable__": {
+                "cache_timeout": null,
+                "columns": [
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "technical_document",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 87,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(45)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "technical_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 88,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(100)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "technical_lastname",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 89,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(100)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "farm_id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 90,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "BIGINT(20)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "farm_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 91,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(250)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "plot_id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 92,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "BIGINT(20)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "plot_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 93,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(500)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "plot_latitude",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 94,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "plot_longitud",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 95,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "event_form",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 96,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "INTEGER(11)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "block",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 97,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(250)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "question",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 98,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(250)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "event_id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 99,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "BIGINT(20)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "raw_value_n",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 100,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "fixed_value_n",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 101,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "raw_units_n",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 102,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(45)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "fixed_units_n",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 103,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(45)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "raw_value_t",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 104,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "MEDIUMTEXT",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "fixed_value_t",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 105,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "MEDIUMTEXT",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "raw_value_d",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 106,
+                            "is_active": true,
+                            "is_dttm": true,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "DATETIME",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "fixed_value_d",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 107,
+                            "is_active": true,
+                            "is_dttm": true,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "DATETIME",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "raw_value_o",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 108,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "INTEGER(11)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "column_name": "fixed_value_o",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 109,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 7,
+                            "type": "VARCHAR(250)",
+                            "verbose_name": null
+                        }
+                    }
+                ],
+                "database_id": 2,
+                "default_endpoint": null,
+                "description": null,
+                "fetch_values_predicate": null,
+                "filter_select_enabled": true,
+                "main_dttm_col": "raw_value_d",
+                "metrics": [
+                    {
+                        "__SqlMetric__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T19:14:33"
+                            },
+                            "d3format": null,
+                            "description": null,
+                            "expression": "COUNT(*)",
+                            "id": 7,
+                            "metric_name": "count",
+                            "metric_type": "count",
+                            "table_id": 7,
+                            "verbose_name": "COUNT(*)",
+                            "warning_text": null
+                        }
+                    }
+                ],
+                "offset": 0,
+                "params": "{\"remote_id\": 7, \"database_name\": \"aeps_2_0\"}",
+                "schema": null,
+                "sql": null,
+                "table_name": "vw_answers_ta",
+                "template_params": null
+            }
+        },
+        {
+            "__SqlaTable__": {
+                "cache_timeout": null,
+                "columns": [
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "technical_document",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 15,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "VARCHAR(45)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "technical_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 16,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "VARCHAR(100)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "technical_lastname",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 17,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "VARCHAR(100)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "farm_id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 18,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "BIGINT(20)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "farm_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 19,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "VARCHAR(250)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "plot_id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 20,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "BIGINT(20)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "plot_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 21,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "VARCHAR(500)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "plot_latitude",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 22,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "plot_longitud",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 23,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "event_id",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 24,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "BIGINT(20)",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "column_name": "event_form",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 25,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 3,
+                            "type": "INTEGER(11)",
+                            "verbose_name": null
+                        }
+                    }
+                ],
+                "database_id": 2,
+                "default_endpoint": null,
+                "description": null,
+                "fetch_values_predicate": null,
+                "filter_select_enabled": false,
+                "main_dttm_col": null,
+                "metrics": [
+                    {
+                        "__SqlMetric__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-20T14:32:46"
+                            },
+                            "d3format": null,
+                            "description": null,
+                            "expression": "COUNT(*)",
+                            "id": 3,
+                            "metric_name": "count",
+                            "metric_type": "count",
+                            "table_id": 3,
+                            "verbose_name": "COUNT(*)",
+                            "warning_text": null
+                        }
+                    }
+                ],
+                "offset": 0,
+                "params": "{\"remote_id\": 3, \"database_name\": \"aeps_2_0\"}",
+                "schema": null,
+                "sql": null,
+                "table_name": "vw_production_events",
+                "template_params": null
+            }
+        },
+        {
+            "__SqlaTable__": {
+                "cache_timeout": null,
+                "columns": [
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "column_name": "event",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 124,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 10,
+                            "type": "LONGLONG",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "column_name": "q1_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 125,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 10,
+                            "type": "VAR_STRING",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "column_name": "value",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 126,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 10,
+                            "type": "DOUBLE",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "column_name": "units",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 127,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 10,
+                            "type": "VAR_STRING",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "column_name": "q2_name",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 128,
+                            "is_active": true,
+                            "is_dttm": false,
+                            "python_date_format": null,
+                            "table_id": 10,
+                            "type": "VAR_STRING",
+                            "verbose_name": null
+                        }
+                    },
+                    {
+                        "__TableColumn__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "column_name": "date",
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "description": null,
+                            "expression": null,
+                            "filterable": true,
+                            "groupby": true,
+                            "id": 129,
+                            "is_active": true,
+                            "is_dttm": true,
+                            "python_date_format": null,
+                            "table_id": 10,
+                            "type": "DATETIME",
+                            "verbose_name": null
+                        }
+                    }
+                ],
+                "database_id": 2,
+                "default_endpoint": null,
+                "description": null,
+                "fetch_values_predicate": null,
+                "filter_select_enabled": false,
+                "main_dttm_col": null,
+                "metrics": [
+                    {
+                        "__SqlMetric__": {
+                            "changed_by_fk": 1,
+                            "changed_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "created_by_fk": 1,
+                            "created_on": {
+                                "__datetime__": "2020-01-21T00:27:25"
+                            },
+                            "d3format": null,
+                            "description": null,
+                            "expression": "count(*)",
+                            "id": 10,
+                            "metric_name": "count",
+                            "metric_type": null,
+                            "table_id": 10,
+                            "verbose_name": null,
+                            "warning_text": null
+                        }
+                    }
+                ],
+                "offset": 0,
+                "params": "{\"remote_id\": 10, \"database_name\": \"aeps_2_0\"}",
+                "schema": "aeps_2_0",
+                "sql": "SELECT pe.id as event, \n    fq1.name as q1_name, \n    rn.fixed_value as value, \n    rn.fixed_units as units, \n    fq2.name as q2_name, \n    rd.fixed_value as date\nFROM far_production_events as pe\n    inner join far_responses_numeric as rn on rn.event = pe.id\n    inner join far_responses_date as rd on rd.event = pe.id\n    inner join frm_questions as fq1 on rn.question = fq1.id\n    inner join frm_questions as fq2 on rd.question = fq2.id",
+                "table_name": "apache superset-compare_values_dates-Z2CTmZ9Bl",
+                "template_params": "{}"
+            }
+        }
+    ]
+}

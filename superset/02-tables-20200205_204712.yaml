@@ -1,0 +1,130 @@
+- columns:
+  - column_name: raw_value_d
+    is_dttm: true
+    type: DATETIME
+  - column_name: fixed_value_d
+    is_dttm: true
+    type: DATETIME
+  - column_name: technical_lastname
+    type: VARCHAR(100)
+  - column_name: technical_name
+    type: VARCHAR(100)
+  - column_name: plot_name
+    type: VARCHAR(500)
+  - column_name: fixed_value_o
+    type: VARCHAR(250)
+  - column_name: farm_name
+    type: VARCHAR(250)
+  - column_name: block
+    type: VARCHAR(250)
+  - column_name: question
+    type: VARCHAR(250)
+  - column_name: farm_id
+    type: BIGINT(20)
+  - column_name: event_id
+    type: BIGINT(20)
+  - column_name: plot_id
+    type: BIGINT(20)
+  - column_name: raw_value_o
+    type: INTEGER(11)
+  - column_name: event_form
+    type: INTEGER(11)
+  - column_name: raw_units_n
+    type: VARCHAR(45)
+  - column_name: fixed_units_n
+    type: VARCHAR(45)
+  - column_name: technical_document
+    type: VARCHAR(45)
+  - column_name: raw_value_n
+    type: DOUBLE
+  - column_name: fixed_value_n
+    type: DOUBLE
+  - column_name: plot_latitude
+    type: DOUBLE
+  - column_name: plot_longitud
+    type: DOUBLE
+  - column_name: raw_value_t
+    type: MEDIUMTEXT
+  - column_name: fixed_value_t
+    type: MEDIUMTEXT
+  filter_select_enabled: true
+  main_dttm_col: raw_value_d
+  metrics:
+  - expression: COUNT(*)
+    metric_name: count
+    metric_type: count
+    verbose_name: COUNT(*)
+  table_name: vw_answers_ta
+- columns:
+  - column_name: raw_value_d
+    is_dttm: true
+    type: DATETIME
+  - column_name: fixed_value_d
+    is_dttm: true
+    type: DATETIME
+  - column_name: fixed_value_o
+    type: VARCHAR(250)
+  - column_name: block
+    type: VARCHAR(250)
+  - column_name: question
+    type: VARCHAR(250)
+  - column_name: event_id
+    type: BIGINT(20)
+  - column_name: raw_value_o
+    type: INTEGER(11)
+  - column_name: raw_units_n
+    type: VARCHAR(45)
+  - column_name: fixed_units_n
+    type: VARCHAR(45)
+  - column_name: raw_units
+    type: VARCHAR(45)
+  - column_name: fixed_units
+    type: VARCHAR(45)
+  - column_name: raw_value_n
+    type: DOUBLE
+  - column_name: fixed_value_n
+    type: DOUBLE
+  - column_name: raw_value_t
+    type: MEDIUMTEXT
+  - column_name: fixed_value_t
+    type: MEDIUMTEXT
+  - column_name: raw_value
+    type: MEDIUMTEXT
+  - column_name: fixed_value
+    type: MEDIUMTEXT
+  main_dttm_col: raw_value_d
+  metrics:
+  - expression: COUNT(*)
+    metric_name: count
+    metric_type: count
+    verbose_name: COUNT(*)
+  table_name: vw_answers
+- columns:
+  - column_name: technical_lastname
+    type: VARCHAR(100)
+  - column_name: technical_name
+    type: VARCHAR(100)
+  - column_name: plot_name
+    type: VARCHAR(500)
+  - column_name: farm_name
+    type: VARCHAR(250)
+  - column_name: farm_id
+    type: BIGINT(20)
+  - column_name: event_id
+    type: BIGINT(20)
+  - column_name: plot_id
+    type: BIGINT(20)
+  - column_name: event_form
+    type: INTEGER(11)
+  - column_name: technical_document
+    type: VARCHAR(45)
+  - column_name: plot_latitude
+    type: DOUBLE
+  - column_name: plot_longitud
+    type: DOUBLE
+  metrics:
+  - expression: COUNT(*)
+    metric_name: count
+    metric_type: count
+    verbose_name: COUNT(*)
+  table_name: vw_production_events
